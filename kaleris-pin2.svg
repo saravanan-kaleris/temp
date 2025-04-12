@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32">
+  <!-- Pin Body -->
+  <path d="M12 0C5.383 0 0 5.383 0 12c0 3.912 1.873 7.409 4.766 9.62L12 32l7.234-10.38C22.127 19.41 24 15.912 24 12 24 5.383 18.617 0 12 0z" fill="#00A170"/>
+  
+  <!-- White Circle Background -->
+  <circle cx="12" cy="12" r="8" fill="white"/>
+  
+  <!-- K Logo -->
+  <g transform="translate(5.5, 5.5) scale(0.6)">
+    <path d="M2 1 L2 18 L5 18 L5 11 L14 18 L18 18 L9 10.5 L18 3 L14 3 L5 10 L5 1 Z" fill="#00A170"/>
+    <path d="M0 11 L5 11 L5 8 L8 11 L5 14 L5 11 Z" fill="#00A170"/>
+  </g>
+</svg>
